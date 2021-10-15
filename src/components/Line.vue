@@ -71,7 +71,7 @@ export default {
 <style>
 #line {
   height: 350px;
-  width: 400px;
+  width: 900px;
   margin: auto;
 }
 </style>

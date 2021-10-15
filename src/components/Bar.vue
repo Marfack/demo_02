@@ -67,8 +67,8 @@ export default {
 
 <style>
 #bar {
-  height: 350px;
-  width: 400px;
+  height: 500px;
+  width: 900px;
   margin: auto;
 }
 </style>

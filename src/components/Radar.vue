@@ -90,6 +90,9 @@ export default {
 </script>
 
 <style scoped>
+.box {
+  height: 100%;
+}
 #radar {
   width: 500px;
   height: 500px;

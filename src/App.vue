@@ -17,8 +17,4 @@ export default {
 
 <style>
 @import url(./assets/css/normalize.css);
-
-html {
-  background-color: #F9F9F9;
-}
 </style>
